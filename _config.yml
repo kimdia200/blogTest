@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:"kimdia2000@gmail.com"
+  email:
   facebook:
   flickr:
-  github: "kimdia200/kimdia200.github.io"
+  github: kimdia200/kimdia200.github.io
   instagram:
   linkedin:
   pinterest:
