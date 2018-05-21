@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /윾수/
+permalink: /about/
 ---
 
 south korea / 94.02.06 / M / 
